@@ -30,11 +30,11 @@ Favoris
 
 ## PEOPLE BEHIND THE PROJECT
 
-- README project Axel
-- Mockup 1 Daniel
-- Readme mockup 1 Alex
-- Mockup 2 Joëlle
-- Readme mockup 2 Mateï
+- **README project** *Axel*
+- **Mockup 1** *Daniel*
+- **Readme mockup 1** *Alex*
+- **Mockup 2** *Joelle*
+- **Readme mockup 2** *Mateï*
 
 ## LINKS
 
