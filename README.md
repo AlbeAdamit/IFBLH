@@ -34,7 +34,7 @@ Favoris
 - **Mockup 1** *Daniel*
 - **Readme mockup 1** *Alex*
 - **Mockup 2** *Joelle*
-- **Readme mockup 2** *Mateï*
+- **favoris** mateï
 
 ## LINKS
 
