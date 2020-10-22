@@ -10,5 +10,9 @@ On affiche les photos pinned sur la *map* :earth-americas: et en cliquant dessus
 * Un *commentaire* sur le ressenti par rapport à la température.
 * Une *barre de recherche*, pour afficher les photos de cette zone *exclusivement*.
 
+## Options :
 
-
+L'utilisateur peut utiliser le bouton options pour avoir accès à des features tels que :
+* La page "Amis" 
+* La page "Filtres"
+* La page "Paramètres"
