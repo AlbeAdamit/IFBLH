@@ -4,8 +4,8 @@ Cet écran a pour fonction d'afficher une carte sur laquelle se trouve les photo
 
 ## Description :
 
-On affiche les photos pinned sur la *map* :earth-americas: et en cliquant dessus, on y trouve : 
-* Une liste de *photos* pinned 
+On affiche les photos pinned sur la *map* :earth_americas: et en cliquant dessus, on y trouve : 
+* Une liste de *photos* :framed_picture: pinned 
 * *L'heure* de post
 * Un *commentaire* sur le ressenti par rapport à la température.
 * Une *barre de recherche*, pour afficher les photos de cette zone *exclusivement*.
